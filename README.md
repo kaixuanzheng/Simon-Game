@@ -1,1 +1,1 @@
-# Simon-Game
+# Simon-Game A JQuery Project
